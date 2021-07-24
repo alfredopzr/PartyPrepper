@@ -7,7 +7,7 @@ Calculate the approximate amount of necessary bottles and mixers and the approxi
  - On average, how many drinks does each guest drink?
  - On average, how much do you pay per bottle?
  
-#Output:
+# Output:
 - Amount of Bottles Needed
 - Amount of 1L Mixers Needed
 - Approximate cost
@@ -18,7 +18,7 @@ Calculate the approximate amount of necessary bottles and mixers and the approxi
  - 1 liter of mixer per 3 guests
  - 1 liter of soda costs $2
  
- #Features to Add:
+ # Features to Add:
  - Make GUI
  - More detailed calculations
  - Select if you drink beer (beer to liquor ratio)
